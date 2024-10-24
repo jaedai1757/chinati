@@ -1,0 +1,13 @@
+.main-header {
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+}
+
+td {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 100%;
+}
