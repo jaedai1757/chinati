@@ -11,3 +11,11 @@ td {
 img {
     width: 100%;
 }
+
+#a {
+    list-style-type: lower-roman;
+}
+
+#b {
+    list-style-type: lower-alpha;
+}
